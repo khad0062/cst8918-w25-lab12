@@ -8,7 +8,7 @@ Prof. Robert McKenney
 - Nirajan Khadka        - https://github.com/khad0062/      - khad0062 
 - Sai Karthick Kalidoss - https://github.com/Saikarthick07     - Saikarthick07
 
-Note: Unable to get the work done due to credentail issues.
+Note: Unable to get the work done in time due to credentail issues.
 
 
 ### Project folder structure
@@ -52,4 +52,5 @@ cst8918-w25-lab12
 
 
 <img width="1914" height="799" alt="image" src="https://github.com/user-attachments/assets/5f7f94cc-8586-4887-b18e-cb09ef60065a" />
+
 
