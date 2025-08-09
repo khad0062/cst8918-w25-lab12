@@ -46,5 +46,10 @@ cst8918-w25-lab12
 ```
 
 
+<img width="1799" height="835" alt="image" src="https://github.com/user-attachments/assets/d2de93fb-161f-436d-8491-594f16330337" />
 
-https://learn.microsoft.com/en-ca/azure/developer/github/connect-from-azure?tabs=azure-cli%2Clinux#use-the-azure-login-action-with-openid-connect
+<img width="1897" height="658" alt="image" src="https://github.com/user-attachments/assets/e1454b0a-ad15-46df-92f0-87847c08643d" />
+
+
+<img width="1914" height="799" alt="image" src="https://github.com/user-attachments/assets/5f7f94cc-8586-4887-b18e-cb09ef60065a" />
+
